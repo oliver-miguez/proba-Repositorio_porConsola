@@ -20,7 +20,7 @@ __Git -> Push__
 
 Elegimos donde pone Origin nuestro nuevo repositorio creado, y ya seleccionado ya podemos hacer:
 
-___
+
 ## Push
 
 
